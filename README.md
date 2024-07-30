@@ -1,0 +1,1 @@
+This PettersonApps test case was written in React Native using Expo, Redux, and the React Native Elements UI library.
